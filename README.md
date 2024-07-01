@@ -1,4 +1,4 @@
-# Mini_project
+
 Name : Nga Ke Jie 
 Student ID : 2204431
 
